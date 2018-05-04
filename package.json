@@ -8,10 +8,6 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gutierr3z/reactpractice11_just_reducers.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
