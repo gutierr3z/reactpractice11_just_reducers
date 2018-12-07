@@ -5,6 +5,7 @@ import { createStore } from 'redux';
 // --------------------------------------------------
 import Index from './components/comp_index';
 import Reducers from './reducers/reducer_index';
+import { ADDRGETNETWORKPARAMS } from 'dns';
 // ==================================================
 class App extends Component {
 
@@ -15,7 +16,9 @@ class App extends Component {
                 <Index />
             </Provider>
         );
-    }
+  ADDRGETNETWORKPARAMS
+
+  }
 };
 // ==================================================
 ReactDom.render( <App />, document.querySelector( '#main' ) );
