@@ -21,4 +21,4 @@ class App extends Component {
   }
 };
 // ==================================================
-ReactDom.render( <App />, document.querySelector( '#main' ) );  
+ReactDom.render( <App />, document.querySelector( '#main' ) );
